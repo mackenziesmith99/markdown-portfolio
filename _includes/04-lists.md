@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* mystery novels
+* music
+* audio books
